@@ -7,5 +7,8 @@ public class Calc {
 	public int findCube(int num) {
 		return num*num*num;
 	}
+	public int findSum(int num)
+	return num+num;
+}
 
 }
